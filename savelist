@@ -1,8 +1,6 @@
 class savelist(object):
 	def __init__(self):
 		pass
-		# self.r = r      # public
-		# self.l = l   # private
 
 	def write(data):
 		r=""
